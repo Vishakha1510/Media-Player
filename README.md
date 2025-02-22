@@ -27,13 +27,13 @@ Here are some of the songs you can enjoy in the app:
 
 Check out some screenshots of the app in action:
 
-![Screenshot 1](audio.jpg)
+![Screenshot 1](Screenshot/audio.jpg)
 
-![Screenshot 2](popmenu.jpg)
+![Screenshot 2](Screenshot/popmenu.jpg)
 
-![Screenshot 3](video.jpg)
+![Screenshot 3](Screenshot/video.jpg)
 
-![Screenshot 4](slider.jpg)
+![Screenshot 4](Screenshot/slider.jpg)
 
 
 ## 🚀 Getting Started
